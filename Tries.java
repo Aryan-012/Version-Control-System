@@ -1,6 +1,4 @@
+public class Tries {
 
-dsfsd
-
-fas
-dsfsdas
-dsfsdas
+    
+}
