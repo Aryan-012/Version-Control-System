@@ -1,3 +1,8 @@
+Git Commands:
+
+Working Directory -----(git add .)-------> Staging area ---------(git commit -m "<mesaage>")-------> Local Repository ------(git push <remote repo> <branch>)------> Cloud Repository
+
+
 git add . //--> to add to staging area from working directory
 git commit -m "<mesaage>" //--> to get move to local repository from staging area
 git push <remote repo> <branch> //--> to move from local repo to cloud repo
