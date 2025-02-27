@@ -17,7 +17,7 @@ Press enter for all inputs and it will create two files in ~/.ssh folder - id_ed
 4. On the SSH and GPG Keys page (https://github.com/settings/keys), click on "New SSH key. Give an easy to understand title and paste the contents of the "id_ed25519.pub" file in the Key section. Click "Add SSH Key".
 
 5. You are ready to work with beingzero github repositories.
-
+![alt text](image.png)
 NOTE: 
 1. For Windows users go to services by searching in the search bar.
 2. Next search openSSH Authentication Agent.
